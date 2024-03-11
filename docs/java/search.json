@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi there, Everyone!\nMy official registration name is Deepshika Saravanan. I hold a Bachelor’s degree in Technology in department Computer Science from Chennai, India from SRM Institute of Science and Technology, 2 years ago. My educational goals for this course include developing a deep connection with big data analytics, mastering data analysis techniques, and gaining proficiency in deploying relevant tools. In the broader context of my Mason program of study, I aim to build a strong foundation in data management and mining, as well as enhance my skills in data visualization for analytics. In addition to the current course, I am taking Principles of Data Management/Mining and Visualization for Analytics this semester.\nI have experience working in various computing environments, including both local and cloud-based platforms. Locally, I am proficient in operating systems such as Windows and Linux. In terms of cloud services, I don’t have hands-on experience with AWS (Amazon Web Services) but have done few courses on online for an overview experience of the concepts. My familiarity extends to utilizing cloud resources for storage, computation, and deploying applications in minor projects. While I may not consider myself an expert, I have a solid understanding of cloud computing concepts.\nAt this moment, I don’t have specific concerns about taking this course. However, I am open to addressing any challenges that may arise during the course and am committed to actively engaging with the material to ensure a successful learning experience throughout the course."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Deepshika Saravanan",
+    "section": "",
+    "text": "MSDA Graduate student @ George Mason University | Software Engineer | Former Senior Analyst @ Capgemini Technology Services | Python | SQL | Bigdata Analytics | Machine Learning | Data Visualisation\nWith a solid foundation in Data Science, I have honed my abilities to extract, clean, analyze, and visualize data to derive actionable insights. My experience includes working with diverse datasets, from structured databases to unstructured text, and applying advanced analytics techniques to uncover hidden patterns and trends."
+  },
+  {
+    "objectID": "index.html#my-goal-is-to-leverage-my-passion-for-data-and-my-skills-in-data-science-to-make-a-meaningful-impact.-whether-its-optimizing-business-operations-improving-customer-experiences-or-driving-strategic-decision-making-i-am-dedicated-to-using-data-to-drive-positive-change-and-drive-towards-excellence.",
+    "href": "index.html#my-goal-is-to-leverage-my-passion-for-data-and-my-skills-in-data-science-to-make-a-meaningful-impact.-whether-its-optimizing-business-operations-improving-customer-experiences-or-driving-strategic-decision-making-i-am-dedicated-to-using-data-to-drive-positive-change-and-drive-towards-excellence.",
+    "title": "Deepshika Saravanan",
+    "section": "My goal is to leverage my passion for data and my skills in Data Science to make a meaningful impact. Whether its optimizing business operations, improving customer experiences, or driving strategic decision-making, I am dedicated to using data to drive positive change and drive towards excellence.",
+    "text": "My goal is to leverage my passion for data and my skills in Data Science to make a meaningful impact. Whether its optimizing business operations, improving customer experiences, or driving strategic decision-making, I am dedicated to using data to drive positive change and drive towards excellence."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is the Youtube link: -"
+  },
+  {
+    "objectID": "projects.html#welcome-to-my-stat-515-mid-project",
+    "href": "projects.html#welcome-to-my-stat-515-mid-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is the Youtube link: -"
+  },
+  {
+    "objectID": "projects.html#title-using-r-to-redesign-statistical-graphs-application-to-flight-and-spotify-datasets",
+    "href": "projects.html#title-using-r-to-redesign-statistical-graphs-application-to-flight-and-spotify-datasets",
+    "title": "Projects",
+    "section": "Title: Using R to Redesign Statistical Graphs: Application to Flight and Spotify Datasets",
+    "text": "Title: Using R to Redesign Statistical Graphs: Application to Flight and Spotify Datasets\nEffective data visualization is crucial for clearly and successfully expressing ideas in the field of statistical research. In our first STAT 515 mid-project, we used R programming to restyle graphs for two different datasets: Flights and Spotify. Notably, we revised the graphics showing the distribution of airtime and the average delay by month for the Flights dataset and converted the time data into a more understandable format. In a similar vein, we redesigned the Spotify dataset’s popularity numbers and top 10 genres presentation. By making these efforts, we want to improve the graphical representations’ readability and aesthetic appeal and enable more in-depth understanding of the underlying data trends.\nOne of the most effective methods for identifying patterns and trends in datasets is statistical visualization. In order to improve readability and clarity, we redesigned the Flights and Spotify dataset graphs using R programming for our project. Our goal was to give better insights into these statistics by revamping graphs for important metrics including delay, airtime distribution, popularity, and genre distribution, as well as altering the way time data is represented.\nFor data manipulation and visualization, we used R programming and pertinent packages like ggplot2, plotly and lubridate. To make the Flights dataset easier to understand, we converted the departure and arrival timings into the HH:MM format. We also modified the graphs to show the distribution of airtime and the average delay by month. In a similar vein, we recreated graphs for the Spotify dataset in order to show the top 10 genres and the popularity value dispersion. Iterative improvement ensured the visualizations’ efficiency and clarity throughout the process.\nWe were able to learn more about the distribution of airtime among flights and seasonal fluctuations in delays by analyzing the Flights dataset. We effectively communicated these patterns using new graphics, making it possible for to quickly understand the results. In a similar vein, our investigation of the Spotify dataset revealed information about song popularity and the frequency of various musical genres\nWe were able to improve readability and clarity, two issues with the previous visualizations, by revamping the graphs. We enhanced the graphs’ readability and aesthetic appeal by modernizing the way time data was represented and honing the graphical display of important parameters. The significance of proficient data visualization in deriving meaningful conclusions from intricate datasets is emphasized by our project.\nIn conclusion, our mid project STAT 515 project has shown how powerful R programming can be when it comes to creating new statistical graphs for the Flights and Spotify datasets. We improved the graphs’ readability and clarity by modernizing the way time data was represented and enhancing the way important metrics were visualized. This allowed us to get a better understanding of the visualizations. In the future, we hope to investigate more sophisticated visualization methods in order to gain even more profound understanding of intricate datasets.\n#References: -\n#Dataset of Flights:-\nhttps://www.kaggle.com/code/saeedehkamjoo/visualization-on-flights-dataset/notebook\n#Dataset of spotify:-\nhttps://www.kaggle.com/code/ericbiernacki/popular-songs-bad-graph-example/notebook"
+  },
+  {
+    "objectID": "java/index.html",
+    "href": "java/index.html",
+    "title": "Deepshika Saravanan",
+    "section": "",
+    "text": "MSDA Graduate student @ George Mason University | Software Engineer | Former Senior Analyst @ Capgemini Technology Services | Python | SQL | Bigdata Analytics | Machine Learning | Data Visualisation\nWith a solid foundation in Data Science, I have honed my abilities to extract, clean, analyze, and visualize data to derive actionable insights. My experience includes working with diverse datasets, from structured databases to unstructured text, and applying advanced analytics techniques to uncover hidden patterns and trends.\nMy goal is to leverage my passion for data and my skills in Data Science to make a meaningful impact. Whether its optimizing business operations, improving customer experiences, or driving strategic decision-making, I am dedicated to using data to drive positive change and drive towards excellence."
+  },
+  {
+    "objectID": "java/about.html",
+    "href": "java/about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi there, Everyone!\nMy official registration name is Deepshika Saravanan. I hold a Bachelor’s degree in Technology in department Computer Science from Chennai, India from SRM Institute of Science and Technology, 2 years ago. My educational goals for this course include developing a deep connection with big data analytics, mastering data analysis techniques, and gaining proficiency in deploying relevant tools. In the broader context of my Mason program of study, I aim to build a strong foundation in data management and mining, as well as enhance my skills in data visualization for analytics. In addition to the current course, I am taking Principles of Data Management/Mining and Visualization for Analytics this semester.\nI have experience working in various computing environments, including both local and cloud-based platforms. Locally, I am proficient in operating systems such as Windows and Linux. In terms of cloud services, I don’t have hands-on experience with AWS (Amazon Web Services) but have done few courses on online for an overview experience of the concepts. My familiarity extends to utilizing cloud resources for storage, computation, and deploying applications in minor projects. While I may not consider myself an expert, I have a solid understanding of cloud computing concepts.\nAt this moment, I don’t have specific concerns about taking this course. However, I am open to addressing any challenges that may arise during the course and am committed to actively engaging with the material to ensure a successful learning experience throughout the course."
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "code",
+    "section": "",
+    "text": "The codes which i wrote in R programming language to represent visualizations for STAT-515 MID-PROJECT.Here’s an embedded PDF of Spotify Dataset.:Download PDFHere’s an embedded PDF of Flights Dataset.:Download PDF"
+  },
+  {
+    "objectID": "Code.html",
+    "href": "Code.html",
+    "title": "Code",
+    "section": "",
+    "text": "The codes that we wrote in R programming language to represent visualizations for STAT-515 MID-PROJECT.\nHere’s an PDF of Visualisations :Download PDFHere’s an embedded PDF of Code .:Download PDF"
+  },
+  {
+    "objectID": "projects.html#title-using-r-to-redesign-statistical-graphs",
+    "href": "projects.html#title-using-r-to-redesign-statistical-graphs",
+    "title": "Projects",
+    "section": "Title: Using R to Redesign Statistical Graphs:",
+    "text": "Title: Using R to Redesign Statistical Graphs:\nData visualization is the graphical representation of data to help people understand the significance of data by summarizing and presenting it in a visual form. It enables decision-makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. Through the use of charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.\nData manipulation refers to the process of changing data to make it easier to read or to prepare it for further analysis. It involves various operations such as sorting, filtering, aggregating, and transforming data to meet specific requirements. Data manipulation is often done using programming languages like Python, R, or SQL, and tools like Excel or pandas. The goal of data manipulation is to ensure that data is in a format that is suitable for analysis and can provide meaningful insights.\nIn R programming, redesigning visualizations is important for several reasons, and there are specific techniques and packages that can be used to achieve this:\nClarity and Effectiveness: R offers a wide range of packages for creating visualizations, such as ggplot2 and plotly, which allow for the creation of clear and effective visualizations through customizable features like color schemes, labels, and annotations.\nAudience Understanding: By using the ggplot2 package in R, visualizations can be customized to suit different audiences. For example, the facet_wrap function can be used to create multiple plots based on different variables, allowing for easy comparison and understanding.\nData Changes: R provides tools for easily updating visualizations with new data. For instance, the update_geom function in ggplot2 can be used to change the data plotted on a graph without having to recreate the entire plot.\nImproved Aesthetics: R offers various themes and styling options through packages like ggthemes, which allow for the creation of visually appealing visualizations. Additionally, the ggplot2 package provides features for customizing plot elements such as fonts, colors, and grid lines.\nNew Insights: Redesigning visualizations in R can lead to the discovery of new insights in the data. For example, by experimenting with different plot types or adding new variables to a plot, new patterns or relationships in the data may become apparent.\nOverall, in R programming, redesigning visualizations is essential for ensuring that they effectively communicate data, are tailored to the audience, and provide meaningful insights. R’s flexibility and extensive visualization capabilities make it a powerful tool for creating and redesigning visualizations to meet these goals.\nThe STAT 515 course provided us with valuable insights into the power of data visualization tools. It highlighted how visualization can effectively communicate complex data and uncover meaningful insights. This course emphasized the importance of using tools like R to create impactful visualizations that can convey information clearly and engage audiences effectively.\n#References: -\n#Dataset of The Top 100 most valuable brands in 2020:-\nhttps://howmuch.net/sources/top-100-most-valuable-brands-2020\n#Dataset of Visualizing the maximum Gender pay gap across USA:-\nhttps://howmuch.net/articles/men-vs-women-comparing-income-by-industry"
+  }
+]
